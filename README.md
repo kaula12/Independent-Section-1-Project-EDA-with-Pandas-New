@@ -10,7 +10,7 @@ The global film industry continues to generate massive volumes of content annual
 
 **PROBLEM STATEMENT**  
 
-![Problem statement](Images/Problem statement.png)
+![Problem statement](Images/Problem_statement.png)
 
 Like other industries, the film industry faces its own set of challenges. It has emerged as a groundbreaking sector that is used to express feelings, inform, educate, and entertain. Film production companies, streaming platforms, and content marketers often struggle with decisions regarding:
 
